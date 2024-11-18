@@ -1,14 +1,12 @@
-# Segmentation Faiblement Supervisée de Réseaux Vasculaires
+# Weakly Supervised Segmentation of Vascular Networks
 
-Ce projet explore la **segmentation faiblement supervisée de réseaux vasculaires**, avec une approche innovante intégrant le **modèle variationnel du second ordre de Black-Zisserman** dans la fonction de perte.
+This project explores **weakly supervised segmentation of vascular networks** with an innovative approach that integrates the **second-order variational model of Black-Zisserman** into the loss function.
 
-## Objectifs du Projet
+## Project Objectives
 
-- Améliorer la précision des méthodes de segmentation des réseaux vasculaires avec des données d'entraînement limitées.
-- Intégrer le modèle variationnel du second ordre dans la fonction de perte pour une meilleure régularisation et prise en compte des caractéristiques structurelles.
+- Improve the accuracy of vascular network segmentation methods using limited training data.
+- Incorporate the second-order variational model into the loss function for better regularization and structural feature representation.
 
-## Infos
+## Information
 
-
-Ce projet est développé dans le cadre de mon **Projet de Fin d'Études (PFE)** en Master 2.
-
+This project is developed as part of my **Master's Thesis (M2)**.
